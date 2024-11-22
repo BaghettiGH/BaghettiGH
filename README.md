@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BaghettiGH
-- 👀 I’m interested in Data Science, App Development, Web Development
-- 🌱 I’m currently learning Web Development and Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Software Development
+- 🌱 I’m currently learning Data Science and Software Development
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ... trollolol846@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
